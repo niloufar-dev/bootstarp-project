@@ -16,7 +16,8 @@
 
 <table>
   <tr>
-    <td><img width="600" alt="Screenshot 2026-06-05 140229" src="https://github.com/user-attachments/assets/a78ee79e-43d5-4cdf-9385-b46453540969" />
+    <td><img width="600" alt="Screenshot 2026-06-05 141947" src="https://github.com/user-attachments/assets/bef528a1-f5db-4023-89c5-172ca1ba2583" />
+
 </td>
     <td><img width="600" alt="Screenshot 2026-06-05 140245" src="https://github.com/user-attachments/assets/f2f8f86a-163b-49cc-b7ea-cd0b4e8897d8" />
 </td>
